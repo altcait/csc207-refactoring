@@ -1,3 +1,4 @@
+36a6274 Refactor total volume and total amount Task 2.4
 9445382 Refactor frmt variable - Task 2.3
 d96e3d1 Refactor getVolumeCredits for Task 2.2
 9adba2e Refactor for Task 2.1
